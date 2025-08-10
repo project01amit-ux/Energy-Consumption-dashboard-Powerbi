@@ -36,7 +36,4 @@ This project uses *Power BI* to transform raw energy usage data into an interact
 - Industrial sector accounts for *45% of total usage*
 - Consumption drops significantly on weekends
 
-## 📬 Contact
-*Amit Tiwari*  
-📧 amit.tiwari@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/amit-tiwari)
+
